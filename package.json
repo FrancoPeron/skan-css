@@ -1,0 +1,29 @@
+{
+  "name": "skan-css",
+  "version": "1.0.0",
+  "description": "my css files",
+  "main": "skan.css",
+  "style": "skan.css",
+  "files": [
+   
+    "skan.css"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoPeron/skan-css.git"
+  },
+  "keywords": [
+    "skan"
+  ],
+  "author": "Franco Matias Peron Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoPeron/skan-css/issues"
+  },
+  "homepage": "https://github.com/FrancoPeron/skan-css#readme",
+  "devDependencies": {
+    "postcss-import": "^14.0.2"
+  }
+}

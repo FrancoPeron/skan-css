@@ -1,0 +1,77 @@
+/*==================== BOX ALIGNMENT ==================== */
+
+/*------------- Justify Content -------------*/
+
+.justify-start      {justify-content: flex-start;}
+.justify-end        {justify-content: flex-end;}
+.justify-center     {justify-content: center;}
+.justify-between    {justify-content: space-between;}
+.justify-around     {justify-content: space-around;}
+.justify-evenly     {justify-content: space-evenly;}
+  
+/*------------- Justify Items -------------*/
+
+.justify-items-auto     {justify-items: auto;}
+.justify-items-start    {justify-items: start;}
+.justify-items-end      {justify-items: end;}
+.justify-items-center   {justify-items: center;}
+.justify-items-stretch  {justify-items: stretch;}
+
+/*------------- Justify Self -------------*/
+
+.justify-self-auto     {justify-self: auto;}
+.justify-self-start    {justify-self: start;}
+.justify-self-end      {justify-self: end;}
+.justify-self-center   {justify-self: center;}
+.justify-self-stretch  {justify-self: space-evenly;}
+
+/*------------- Align Content -------------*/
+
+.align-start    {align-content: flex-start;}
+.align-end      {align-content: flex-end;}
+.align-center   {align-content: center;}
+.align-between  {align-content: space-between;}
+.align-around   {align-content: space-around;}
+.align-stretch  {align-content: stretch;}
+
+/*------------- Align Items -------------*/
+
+.align-items-start      {align-items: flex-start;}
+.align-items-end        {align-items: flex-end;}
+.align-items-center     {align-items: center;}
+.align-items-baseline   {align-items: baseline;}
+.align-items-stretch    {align-items: stretch;}
+  
+
+/*------------- Align Self -------------*/
+.align-self-auto        {align-self: auto;}
+.align-self-start       {align-self: flex-start;}
+.align-self-end         {align-self: flex-end;}
+.align-self-center      {align-self: center;}
+.align-self-baseline    {align-self: baseline;}
+.align-self-stretch     {align-self: stretch;}
+
+/*------------- Place Content -------------*/
+
+.place-content-center	{place-content: center;}
+.place-content-start	{place-content: start;}
+.place-content-end	    {place-content: end;}
+.place-content-between	{place-content: space-between;}
+.place-content-around	{place-content: space-around;}
+.place-content-evenly	{place-content: space-evenly;}
+.place-content-stretch	{place-content: stretch;}
+
+/*------------- Place Items -------------*/
+
+.place-items-start	    {place-items: start;}
+.place-items-end	    {place-items: end;}
+.place-items-center	    {place-items: center;}
+.place-items-stretch    {place-items: stretch;}
+
+/*------------- Place Self -------------*/
+
+.place-self-auto	{place-self: auto;}
+.place-self-start	{place-self: start;}
+.place-self-end	    {place-self: end;}
+.place-self-center	{place-self: center;}
+.place-self-stretch	{place-self: stretch;}

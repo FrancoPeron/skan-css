@@ -1,0 +1,19 @@
+/*---------------------- Barra ----------------------*/
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--cGrey1);
+}
+   
+::-webkit-scrollbar-thumb {
+    background: var(--cGrey4); 
+    border: solid 2px var(--cGrey1);
+    border-radius: 8px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--cGrey5); 
+}

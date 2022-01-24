@@ -1,0 +1,21 @@
+
+:root{
+
+    --cBrand1: #fac917;
+    --cBrand2: #232435;
+    --cBrand3: #FF4747;
+    --cBrand4:  ;
+    
+    --cBrandVariant1: #FFDB57;
+    --cBrandVariant2: #393A4A;
+    --cBrandVariant3: #FE6262;
+    --cBrandVariant4: ;
+
+    --container-custom: 1340px;
+    --shadow-custom: 0px 4px 12px rgba(0, 0, 0, 0.16);
+    --border-radius: 6px;
+
+}
+
+/*open terminal folder assets*/
+/*cat documentation/*,components/* > skan.css*/

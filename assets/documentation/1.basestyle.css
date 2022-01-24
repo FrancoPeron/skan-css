@@ -1,0 +1,75 @@
+/*==================== BASE STYLES ==================== */
+
+*{
+	margin:0;
+	padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   /*  font-family: 'Montserrat', sans-serif;*/
+}
+
+li{
+    list-style-type: none;
+    
+}
+
+input {
+    outline: none;
+    border: none;
+}
+input:focus {outline:0;}
+input:focus::-webkit-input-placeholder { color:transparent; }
+input:focus:-moz-placeholder { color:transparent; }
+input:focus::-moz-placeholder { color:transparent; }
+input:focus:-ms-input-placeholder { color:transparent; }
+
+textarea {
+    outline: none;
+    border: none;
+}
+textarea:focus{border-color: transparent;}
+textarea:focus::-webkit-input-placeholder { color:transparent; }
+textarea:focus:-moz-placeholder { color:transparent; }
+textarea:focus::-moz-placeholder { color:transparent; }
+textarea:focus:-ms-input-placeholder { color:transparent; }
+  
+button{
+    border:none;
+    text-decoration: none;
+    cursor: pointer;
+}
+button:focus {outline:0;}
+
+a{
+    text-decoration: none;
+}
+
+h1:focus,h2:focus,h3:focus,h4:focus,h5:focus,h6:focus,p:focus,a:focus,div:focus,span:focus{
+    outline: none;
+}
+
+/*==================== VARIABLES ==================== */
+
+:root{
+
+    --cBlanco: #ffffff;
+    --cNegro: #000000;
+
+    --cGrey1: #fafafa;
+    --cGrey2: #f0f0f0;
+    --cGrey3: #dbdbdb;
+    --cGrey4: #c2c2c2;
+    --cGrey5: #9e9e9e;
+    --cGrey6: #7a7a7a;
+    --cGrey7: #575757;
+    --cGrey8: #3d3d3d;
+    --cGrey9: #292929;
+    --cGrey10: #1F1F1F;
+
+    --cError: #FF4949;
+    --cSuccess: #13CE66;
+    --cWarning: #FFC82C;
+}
+
+
+/*---------------------- Extras ----------------------*/

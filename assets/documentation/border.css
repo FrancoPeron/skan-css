@@ -1,0 +1,174 @@
+/*==================== BORDER ==================== */
+
+/*------------- Border Radius -------------*/
+
+.br-0{border-radius: 0}
+.br-2{border-radius: .125rem}
+.br-4{border-radius: .25rem}
+.br-8{border-radius: .5rem}
+.br-12{border-radius: .75rem}
+.br-16{border-radius: 1rem}
+.br-18{border-radius: 1.125rem}
+.br-24{border-radius: 1.5rem}
+.br-28{border-radius: 1.75rem}
+.br-32{border-radius: 2rem}
+.br-40{border-radius: 2.5rem}
+.br-48{border-radius: 3rem}
+.br-56{border-radius: 3.5rem}
+.br-64{border-radius: 4rem}
+.br-72{border-radius: 4.5rem}
+.br-80{border-radius: 5rem}
+
+/*------------- Border width -------------*/
+
+.bw-0{border-width: 0}
+.bw-1{border-width: .0.0625rem}
+.bw-2{border-width: .125rem}
+.bw-4{border-width: .25rem}
+.bw-8{border-width: .5rem}
+
+.blw-0, .bxw-0{border-left-width: 0}
+.blw-1, .bxw-1{border-left-width: .0.0625rem}
+.blw-2, .bxw-2{border-left-width: .125rem}
+.blw-4, .bxw-3{border-left-width: .25rem}
+.blw-8, .bxw-4{border-left-width: .5rem}
+
+.brw-0, .bxw-0{border-right-width: 0}
+.brw-1, .bxw-1{border-right-width: .0.0625rem}
+.brw-2, .bxw-2{border-right-width: .125rem}
+.brw-4, .bxw-3{border-right-width: .25rem}
+.brw-8, .bxw-4{border-right-width: .5rem}
+
+.btw-0, .byw-0{border-top-width: 0}
+.btw-1, .byw-1{border-top-width: .0.0625rem}
+.btw-2, .byw-2{border-top-width: .125rem}
+.btw-4, .byw-3{border-top-width: .25rem}
+.btw-8, .byw-4{border-top-width: .5rem}
+
+.bbw-0, .byw-0{border-bottom-width: 0}
+.bbw-1, .byw-1{border-bottom-width: .0.0625rem}
+.bbw-2, .byw-2{border-bottom-width: .125rem}
+.bbw-4, .byw-3{border-bottom-width: .25rem}
+.bbw-8, .byw-4{border-bottom-width: .5rem}
+
+/*------------- Border Color -------------*/
+
+.b-white{border-color: var(--cBlanco)}
+.b-black{border-color: var(--cNegro)}
+.b-g1{border-color: var(--cGrey1)}
+.b-g2{border-color: var(--cGrey2)}
+.b-g3{border-color: var(--cGrey3)}
+.b-g4{border-color: var(--cGrey4)}
+.b-g5{border-color: var(--cGrey5)}
+.b-g6{border-color: var(--cGrey6)}
+.b-g7{border-color: var(--cGrey7)}
+.b-g8{border-color: var(--cGrey8)}
+.b-g9{border-color: var(--cGrey9)}
+.b-g10{border-color: var(--cGrey10)}
+
+.b-c1{border-color: var(--cBrand1)}
+.b-c2{border-color: var(--cBrand2)}
+.b-c3{border-color: var(--cBrand3)}
+.b-c4{border-color: var(--cBrand4)}
+
+.b-cv1{border-color: var(--cBrandVariant1)}
+.b-cv2{border-color: var(--cBrandVariant2)}
+.b-cv3{border-color: var(--cBrandVariant3)}
+.b-cv4{border-color: var(--cBrandVariant4)}
+
+/*------------- Border Style -------------*/
+
+.b-solid    {border-style: solid;}
+.b-dashed	{border-style: dashed;}
+.b-dotted	{border-style: dotted;}
+.b-double	{border-style: double;}
+.b-hidden	{border-style: hidden;}
+.b-none     {border-style: none;}
+
+/*------------- Border mix -------------*/
+
+/**** solid ****/
+
+.b-solid1c1 {border: solid 1px var(--cBrand1);}
+.b-solid2c1 {border: solid 2px var(--cBrand1);}
+.b-solid4c1 {border: solid 4px var(--cBrand1);}
+.b-solid8c1 {border: solid 8px var(--cBrand1);}
+
+.b-solid1c2 {border: solid 1px var(--cBrand2);}
+.b-solid2c2 {border: solid 2px var(--cBrand2);}
+.b-solid4c2 {border: solid 4px var(--cBrand2);}
+.b-solid8c2 {border: solid 8px var(--cBrand2);}
+
+.b-solid1c3 {border: solid 1px var(--cBrand3);}
+.b-solid2c3 {border: solid 2px var(--cBrand3);}
+.b-solid4c3 {border: solid 4px var(--cBrand3);}
+.b-solid8c3 {border: solid 8px var(--cBrand3);}
+
+.b-solid1c4 {border: solid 1px var(--cBrand4);}
+.b-solid2c4 {border: solid 2px var(--cBrand4);}
+.b-solid4c4 {border: solid 4px var(--cBrand4);}
+.b-solid8c4 {border: solid 8px var(--cBrand4);}
+
+.b-solid1cv1 {border: solid 1px var(--cBrandVariant1);}
+.b-solid2cv1 {border: solid 2px var(--cBrandVariant1);}
+.b-solid4cv1 {border: solid 4px var(--cBrandVariant1);}
+.b-solid8cv1 {border: solid 8px var(--cBrandVariant1);}
+
+.b-solid1cv2 {border: solid 1px var(--cBrandVariant2);}
+.b-solid2cv2 {border: solid 2px var(--cBrandVariant2);}
+.b-solid4cv2 {border: solid 4px var(--cBrandVariant2);}
+.b-solid8cv2 {border: solid 8px var(--cBrandVariant2);}
+
+.b-solid1cv3 {border: solid 1px var(--cBrandVariant3);}
+.b-solid2cv3 {border: solid 2px var(--cBrandVariant3);}
+.b-solid4cv3 {border: solid 4px var(--cBrandVariant3);}
+.b-solid8cv3 {border: solid 8px var(--cBrandVariant3);}
+
+.b-solid1cv4 {border: solid 1px var(--cBrandVariant4);}
+.b-solid2cv4 {border: solid 2px var(--cBrandVariant4);}
+.b-solid4cv4 {border: solid 4px var(--cBrandVariant4);}
+.b-solid8cv4 {border: solid 8px var(--cBrandVariant4);}
+
+/**** dashed ****/
+
+.b-dashed1c1 {border: dashed 1px var(--cBrand1);}
+.b-dashed2c1 {border: dashed 2px var(--cBrand1);}
+.b-dashed4c1 {border: dashed 4px var(--cBrand1);}
+.b-dashed8c1 {border: dashed 8px var(--cBrand1);}
+
+.b-dashed1c2 {border: dashed 1px var(--cBrand2);}
+.b-dashed2c2 {border: dashed 2px var(--cBrand2);}
+.b-dashed4c2 {border: dashed 4px var(--cBrand2);}
+.b-dashed8c2 {border: dashed 8px var(--cBrand2);}
+
+.b-dashed1c3 {border: dashed 1px var(--cBrand3);}
+.b-dashed2c3 {border: dashed 2px var(--cBrand3);}
+.b-dashed4c3 {border: dashed 4px var(--cBrand3);}
+.b-dashed8c3 {border: dashed 8px var(--cBrand3);}
+
+.b-dashed1c4 {border: dashed 1px var(--cBrand4);}
+.b-dashed2c4 {border: dashed 2px var(--cBrand4);}
+.b-dashed4c4 {border: dashed 4px var(--cBrand4);}
+.b-dashed8c4 {border: dashed 8px var(--cBrand4);}
+
+.b-dashed1cv1 {border: dashed 1px var(--cBrandVariant1);}
+.b-dashed2cv1 {border: dashed 2px var(--cBrandVariant1);}
+.b-dashed4cv1 {border: dashed 4px var(--cBrandVariant1);}
+.b-dashed8cv1 {border: dashed 8px var(--cBrandVariant1);}
+
+.b-dashed1cv2 {border: dashed 1px var(--cBrandVariant2);}
+.b-dashed2cv2 {border: dashed 2px var(--cBrandVariant2);}
+.b-dashed4cv2 {border: dashed 4px var(--cBrandVariant2);}
+.b-dashed8cv2 {border: dashed 8px var(--cBrandVariant2);}
+
+.b-dashed1cv3 {border: dashed 1px var(--cBrandVariant3);}
+.b-dashed2cv3 {border: dashed 2px var(--cBrandVariant3);}
+.b-dashed4cv3 {border: dashed 4px var(--cBrandVariant3);}
+.b-dashed8cv3 {border: dashed 8px var(--cBrandVariant3);}
+
+.b-dashed1cv4 {border: dashed 1px var(--cBrandVariant4);}
+.b-dashed2cv4 {border: dashed 2px var(--cBrandVariant4);}
+.b-dashed4cv4 {border: dashed 4px var(--cBrandVariant4);}
+.b-dashed8cv4 {border: dashed 8px var(--cBrandVariant4);}
+
+

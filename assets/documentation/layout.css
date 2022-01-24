@@ -1,0 +1,136 @@
+/*==================== LAYOUT ==================== */
+
+/*------------- Container -------------*/
+
+.container,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl,
+.container-xxl,
+.container-custom  {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container-sm   {max-width: 640px;}
+.container-md   {max-width: 768px;}
+.container-lg   {max-width: 1024px;}
+.container-xl   {max-width: 1280px;}
+.container-xxl  {max-width: 1536px;}
+.container-custom  {max-width: var(--container-custom)}
+
+
+/*------------- Box Sizing -------------*/
+
+.box-border	    {box-sizing: border-box;}
+.box-content	{box-sizing: content-box;}
+
+/*------------- Display -------------*/
+
+.block              {display: block;}
+.inline-block       {display: inline-block;}
+.inline             {display: inline;}
+.flex               {display: flex;}
+.inline-flex        {display: inline-flex;}
+.grid               {display: grid;}
+.inline-grid        {display: inline-grid;}
+.table              {display: table;}
+.table-caption      {display: table-caption;}
+.table-cell         {display: table-cell;}
+.table-column       {display: table-column;}
+.table-column-group {display: table-column-group;}
+.table-footer-group {display: table-footer-group;}
+.table-header-group {display: table-header-group;}
+.table-row-group    {display: table-row-group;}
+.table-row          {display: table-row;}
+.flow-root          {display: flow-root;}
+.contents           {display: contents;}
+.hidden             {display: none;}
+
+/*------------- Floats -------------*/
+
+.float-right {float: right;}
+.float-left  {float: left;}
+.float-none  {float: none;}
+
+/*------------- Object Fit -------------*/
+
+.object-contain     {object-fit: contain;}
+.object-cover       {object-fit: cover;}
+.object-fill	    {object-fit: fill;}
+.object-none        {object-fit: none;}
+.object-scale-down  {object-fit: scale-down;}
+
+/*------------- Overflow -------------*/
+
+.overflow-auto      {overflow: auto;}
+.overflow-hidden	{overflow: hidden;}
+.overflow-visible	{overflow: visible;}
+.overflow-scroll	{overflow: scroll;}
+.overflow-x-auto	{overflow-x: auto;}
+.overflow-y-auto	{overflow-y: auto;}
+.overflow-x-hidden	{overflow-x: hidden;}
+.overflow-y-hidden	{overflow-y: hidden;}
+.overflow-x-visible	{overflow-x: visible;}
+.overflow-y-visible	{overflow-y: visible;}
+.overflow-x-scroll	{overflow-x: scroll;}
+.overflow-y-scroll	{overflow-y: scroll;}
+
+/*------------- Overscroll Behavior -------------*/
+
+.overscroll-auto	    {overscroll-behavior: auto;}
+.overscroll-contain	    {overscroll-behavior: contain;}
+.overscroll-none	    {overscroll-behavior: none;}
+.overscroll-y-auto	    {overscroll-behavior-y: auto;}
+.overscroll-y-contain	{overscroll-behavior-y: contain;}
+.overscroll-y-none	    {overscroll-behavior-y: none;}
+.overscroll-x-auto	    {overscroll-behavior-x: auto;}
+.overscroll-x-contain	{overscroll-behavior-x: contain;}
+.overscroll-x-none	    {overscroll-behavior-x: none;}
+
+/*------------- Position -------------*/
+
+.static	    {position: static;}
+.fixed	    {position: fixed;}
+.absolute   {position: absolute;}
+.relative	{position: relative;}
+.sticky	    {position: sticky; top: 0;}
+
+/*------------- Visibility -------------*/
+
+.visible	{visibility: visible;}
+.invisible  {visibility: hidden;}
+
+/*------------- Z-Index -------------*/
+
+.z-0    {z-index: 0;}
+.z-10   {z-index: 10;}
+.z-20   {z-index: 20;}
+.z-30   {z-index: 30;}
+.z-40   {z-index: 40;}
+.z-50   {z-index: 50;}
+.z-60   {z-index: 60;}
+.z-70   {z-index: 70;}
+.z-80   {z-index: 80;}
+.z-90   {z-index: 90;}
+.z-100  {z-index: 100;}
+.z-auto {z-index: auto;}
+
+
+/*------------- Top / Right / Bottom / Left -------------*/
+
+.top-0      {top: 0px;}
+.bottom-0   {bottom: 0px;}
+.right-0    {right: 0px;}
+.left-0     {left: 0px;}
+
+
+.abolsute-items-center{
+    position:absolute;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
