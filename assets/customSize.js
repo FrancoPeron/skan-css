@@ -1,5 +1,5 @@
 export default function customSize(e){
-
+  console.log("customSize")
     
 /*------------- Custom Width -------------*/
     var wcustoms = document.querySelectorAll('[width]:not(svg,rect)')
