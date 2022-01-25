@@ -44,38 +44,38 @@
 .bg-c1-800{background-color: var(--cBrand1-800)}
 .bg-c1-900{background-color: var(--cBrand1-900)}
 
-.bg-c2-50{background-color: var(--cBrand1-50);}
-.bg-c2-100{background-color: var(--cBrand1-100);}
-.bg-c2-200{background-color: var(--cBrand1-200);}
-.bg-c2-300{background-color: var(--cBrand1-300);}
-.bg-c2-400{background-color: var(--cBrand1-400);}
-.bg-c2-500{background-color: var(--cBrand1-500);}
-.bg-c2-600{background-color: var(--cBrand1-600);}
-.bg-c2-700{background-color: var(--cBrand1-700);}
-.bg-c2-800{background-color: var(--cBrand1-800);}
-.bg-c2-900{background-color: var(--cBrand1-900);}
+.bg-c2-50{background-color: var(--cBrand2-50);}
+.bg-c2-100{background-color: var(--cBrand2-100);}
+.bg-c2-200{background-color: var(--cBrand2-200);}
+.bg-c2-300{background-color: var(--cBrand2-300);}
+.bg-c2-400{background-color: var(--cBrand2-400);}
+.bg-c2-500{background-color: var(--cBrand2-500);}
+.bg-c2-600{background-color: var(--cBrand2-600);}
+.bg-c2-700{background-color: var(--cBrand2-700);}
+.bg-c2-800{background-color: var(--cBrand2-800);}
+.bg-c2-900{background-color: var(--cBrand2-900);}
 
-.bg-c3-50{background-color: var(--cBrand2-50);}
-.bg-c3-100{background-color: var(--cBrand2-100);}
-.bg-c3-200{background-color: var(--cBrand2-200);}
-.bg-c3-300{background-color: var(--cBrand2-300);}
-.bg-c3-400{background-color: var(--cBrand2-400);}
-.bg-c3-500{background-color: var(--cBrand2-500);}
-.bg-c3-600{background-color: var(--cBrand2-600);}
-.bg-c3-700{background-color: var(--cBrand2-700);}
-.bg-c3-800{background-color: var(--cBrand2-800);}
-.bg-c3-900{background-color: var(--cBrand2-900);}
+.bg-c3-50{background-color: var(--cBrand3-50);}
+.bg-c3-100{background-color: var(--cBrand3-100);}
+.bg-c3-200{background-color: var(--cBrand3-200);}
+.bg-c3-300{background-color: var(--cBrand3-300);}
+.bg-c3-400{background-color: var(--cBrand3-400);}
+.bg-c3-500{background-color: var(--cBrand3-500);}
+.bg-c3-600{background-color: var(--cBrand3-600);}
+.bg-c3-700{background-color: var(--cBrand3-700);}
+.bg-c3-800{background-color: var(--cBrand3-800);}
+.bg-c3-900{background-color: var(--cBrand3-900);}
 
-.bg-c4-50{background-color: var(--cBrand3-50);}
-.bg-c4-100{background-color: var(--cBrand3-100);}
-.bg-c4-200{background-color: var(--cBrand3-200);}
-.bg-c4-300{background-color: var(--cBrand3-300);}
-.bg-c4-400{background-color: var(--cBrand3-400);}
-.bg-c4-500{background-color: var(--cBrand3-500);}
-.bg-c4-600{background-color: var(--cBrand3-600);}
-.bg-c4-700{background-color: var(--cBrand3-700);}
-.bg-c4-800{background-color: var(--cBrand3-800);}
-.bg-c4-900{background-color: var(--cBrand3-900);}
+.bg-c4-50{background-color: var(--cBrand4-50);}
+.bg-c4-100{background-color: var(--cBrand4-100);}
+.bg-c4-200{background-color: var(--cBrand4-200);}
+.bg-c4-300{background-color: var(--cBrand4-300);}
+.bg-c4-400{background-color: var(--cBrand4-400);}
+.bg-c4-500{background-color: var(--cBrand4-500);}
+.bg-c4-600{background-color: var(--cBrand4-600);}
+.bg-c4-700{background-color: var(--cBrand4-700);}
+.bg-c4-800{background-color: var(--cBrand4-800);}
+.bg-c4-900{background-color: var(--cBrand4-900);}
 
 
 /*------------- Background Repeat -------------*/
