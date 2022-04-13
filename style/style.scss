@@ -120,3 +120,22 @@ h1:focus,h2:focus,h3:focus,h4:focus,h5:focus,h6:focus,p:focus,a:focus,div:focus,
 .h-c18{  height: var(--customHeight18);}
 .h-c19{  height: var(--customHeight19);}
 .h-c20{  height: var(--customHeight20);}
+
+
+/* Documentation */
+@import "./documentation/normalize";
+
+@import "./documentation/backgrounds";
+@import "./documentation/border";
+@import "./documentation/box_alignment";
+@import "./documentation/flexbox";
+@import "./documentation/layout";
+@import "./documentation/shadows";
+@import "./documentation/sizing";
+@import "./documentation/spacing";
+@import "./documentation/typography";
+
+@import "./components/animaciones";
+@import "./components/botones";
+@import "./components/inputs";
+@import "./components/sidebars";
